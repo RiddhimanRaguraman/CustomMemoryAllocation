@@ -4,7 +4,8 @@
 #include "Mem.h"
 #include "Heap.h"
 #include "Type.h"
-#include "Framework.h"
+#include "iostream"
+#include "cassert"
 
 class Mem
 {

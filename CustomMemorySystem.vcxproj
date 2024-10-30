@@ -145,8 +145,6 @@
     <ClInclude Include="SourceFiles\Mem.h" />
     <ClInclude Include="SourceFiles\Type.h" />
     <ClInclude Include="SourceFiles\Used.h" />
-    <ClInclude Include="Tests\Framework.h" />
-    <ClInclude Include="Tests\StressTest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

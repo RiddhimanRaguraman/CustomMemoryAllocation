@@ -5,9 +5,6 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Testing">
-      <UniqueIdentifier>{daf9a7da-1853-4139-9688-01cd951cf5d6}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -44,12 +41,6 @@
     </ClInclude>
     <ClInclude Include="SourceFiles\Mem.h">
       <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Tests\StressTest.h">
-      <Filter>Testing</Filter>
-    </ClInclude>
-    <ClInclude Include="Tests\Framework.h">
-      <Filter>Testing</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
