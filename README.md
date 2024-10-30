@@ -7,7 +7,12 @@ This project implements a custom memory management system in C++ designed for pe
 ## Performance Highlights
 
 * **Optimized Memory Management**: The custom memory allocator significantly reduces fragmentation and improves allocation speed.
-* **Speed Improvement**: Benchmarks show that this implementation runs on average **1.8 times faster** than conventional memory management techniques on a **Ryzen 9 5900HX** laptop, demonstrating the effectiveness of the custom approach.
+* **Speed Improvement**: Benchmarks demonstrate that this implementation runs on average **1.96 times faster** than conventional memory management techniques on a **Ryzen 9 5900HX** laptop, showcasing the effectiveness of the custom approach.
+
+### Benchmark Results
+* **Mem Lib**: 653.228394 ms
+* **Custom Memory**: 333.165802 ms
+* **Times Faster**: 1.960671
 
 ## Key Features
 
